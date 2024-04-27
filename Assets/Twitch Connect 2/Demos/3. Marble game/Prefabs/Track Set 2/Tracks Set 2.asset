@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef816829c75b543418560d7eccddda8c, type: 3}
+  m_Name: Tracks Set 2
+  m_EditorClassIdentifier: 
+  trackModules:
+  - name: 
+    prefabModule: {fileID: 2357066105883004385, guid: 47b1d7ddad2834b52993e9362eb89f8c, type: 3}
+  - name: 
+    prefabModule: {fileID: 8004456908499997436, guid: 626c11f75393f4a53a2d06c07e86a76a, type: 3}
+  - name: 
+    prefabModule: {fileID: 5343071009554259995, guid: 14eb3b67390664f798b534a06da2d6dd, type: 3}
+  - name: 
+    prefabModule: {fileID: 1353637429604817393, guid: 5e32fd03df7ff4622bed11a7a2567e14, type: 3}
+  - name: 
+    prefabModule: {fileID: 5347567960431314428, guid: 608b582d1621c48eea8604b5206aa053, type: 3}
+  - name: 
+    prefabModule: {fileID: 2414567498054963911, guid: 0617a30b0107f4a38aedc4864afed942, type: 3}
+  - name: 
+    prefabModule: {fileID: 423315063678088773, guid: a84702ef7471e4a558af7ed1a2ddd037, type: 3}
+  - name: 
+    prefabModule: {fileID: 989413430102976717, guid: 60f6f400a18f94736bca93bab04a1d23, type: 3}
+  - name: 
+    prefabModule: {fileID: 7922867627151830702, guid: 6586d5e37a22e46ac88d170fba4c3a56, type: 3}
+  - name: 
+    prefabModule: {fileID: 605192629933232003, guid: b45f9f547fbed47a78425affa8512ee2, type: 3}
+  - name: 
+    prefabModule: {fileID: 1726862103261398548, guid: 8881168258328435d927b9be9e859263, type: 3}
+  - name: 
+    prefabModule: {fileID: 4530022557282657639, guid: e374d2e47903846ee86908a59855d33a, type: 3}
+  - name: 
+    prefabModule: {fileID: 3649119400141411055, guid: 7d55f35afd59f4ccd97b70894c92a34d, type: 3}
+  - name: 
+    prefabModule: {fileID: 684976769296268204, guid: 0734a6c0ebdca44ec8332fb995b6c485, type: 3}
+  - name: 
+    prefabModule: {fileID: 4250270579688358304, guid: 4678782a7d56e44b18eaebf78b7d2848, type: 3}
+  - name: 
+    prefabModule: {fileID: 4560283079190425178, guid: 6d26a1054a95f42ef89c28fc6f8b38d8, type: 3}
+  - name: 
+    prefabModule: {fileID: 7528682529202306204, guid: 0843370bcc4364d18b70fe933a622b2a, type: 3}
+  - name: 
+    prefabModule: {fileID: 2220688882954043662, guid: 4cd05303ab69042be934079613a9af7e, type: 3}
+  - name: 
+    prefabModule: {fileID: 5886849891722382986, guid: e9176a7f213c84e36969da53fc98b635, type: 3}
+  - name: 
+    prefabModule: {fileID: 720554367281007721, guid: 5a8498edd119342919747c0461b9f7ad, type: 3}
+  - name: 
+    prefabModule: {fileID: 8544429986895149795, guid: 03e5074dfb4f34fe4b61583c68e6ca3f, type: 3}
+  - name: 
+    prefabModule: {fileID: 4569857854242146678, guid: 6cb8d73e3fda64eb5aca567dbd5f3b13, type: 3}
+  - name: 
+    prefabModule: {fileID: 390719835521866343, guid: 2fa339679a7fb4a6aa3285a0998b1128, type: 3}
+  - name: 
+    prefabModule: {fileID: 7724520465139739037, guid: 0c8114235459d436e88481bfb2758f3a, type: 3}
+  - name: 
+    prefabModule: {fileID: 1830496381946842863, guid: c5e1e7d9f50624df083316c5d1c01552, type: 3}
+  - name: 
+    prefabModule: {fileID: 172149212401643430, guid: 27c4033e5848442a388e1efd73e6c19f, type: 3}
+  - name: 
+    prefabModule: {fileID: 3341567432802054494, guid: 205d5c637173b45fcb5875b0a7465f96, type: 3}
+  - name: 
+    prefabModule: {fileID: 5025920388882423108, guid: 8b780f5d5d0524227b2a75756b154d85, type: 3}
+  - name: 
+    prefabModule: {fileID: 6751113580399882188, guid: 8c10a3f2e5fd94c3397debd751922480, type: 3}
+  - name: 
+    prefabModule: {fileID: 820267077110779087, guid: dfb2cf93700f94418ba09a09e303e706, type: 3}

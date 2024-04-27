@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f3e6576e06ae31741b0619d4ac72facb, type: 3}
+  m_Name: Marble game
+  m_EditorClassIdentifier: 
+  chatMessages: []
+  chatCommands:
+  - '@badge-info=;badges=;client-nonce=93866b338b083ea494e1c4355b9b9604;color=#8A2BE2;display-name=Lunariaaa;emotes=;flags=;id=d8201c80-a4c8-4aad-9ec0-6654d62b87c3;mod=0;room-id=23161357;subscriber=0;tmi-sent-ts=1628286818134;turbo=0;user-id=90005590;user-type=
+    :lunariaaa!lunariaaa@lunariaaa.tmi.twitch.tv PRIVMSG #lirik :!play'
+  - '@badge-info=;badges=;client-nonce=7d7a020deff75c77cb2526c7cdb0bec7;color=#B22222;display-name=lexipiano;emotes=;flags=;id=066e4f4e-0d75-40b1-8417-116bcb633d0d;mod=0;room-id=23161357;subscriber=0;tmi-sent-ts=1628286843296;turbo=0;user-id=55504035;user-type=
+    :lexipiano!lexipiano@lexipiano.tmi.twitch.tv PRIVMSG #lirik :!play'
+  - '@badge-info=;badges=;client-nonce=e6a06c1ea820230c39e008297a880597;color=#00FF7F;display-name=Andrezryuzaki;emotes=;flags=;id=4de29e2e-8b0b-4196-b605-91c2a8fb3c49;mod=0;room-id=23161357;subscriber=0;tmi-sent-ts=1628286888262;turbo=0;user-id=70130457;user-type=
+    :andrezryuzaki!andrezryuzaki@andrezryuzaki.tmi.twitch.tv PRIVMSG #lirik :!play'
+  - '@badge-info=;badges=premium/1;color=#2B9BF3;display-name=HideoKojima_san;emotes=;flags=;id=e234d6df-c259-4292-ab31-df2ad12fe2a1;mod=0;room-id=23161357;subscriber=0;tmi-sent-ts=1628286899740;turbo=0;user-id=111132420;user-type=
+    :hideokojima_san!hideokojima_san@hideokojima_san.tmi.twitch.tv PRIVMSG #lirik
+    :!play'
+  chatCommandsWithArgument: []
+  bitsDonations: []
+  newSuscribers: []
+  otherMessage: []
+  inspectorFoldout: 1
+  recordTarget: 0
+  recordReady: 0
+  recordIndex: 0

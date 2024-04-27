@@ -1,0 +1,16 @@
+{
+    "name": "TwitchConnect.Demo.MarbleGame",
+    "rootNamespace": "",
+    "references": [
+        "GUID:d594eabd2c8465a42b766c9e88cdd4e7"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,19 @@
+{
+    "name": "TwitchConnect.Demo.MarbleGame.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:d594eabd2c8465a42b766c9e88cdd4e7",
+        "GUID:95d9613b67e952447b7678af4ef8bba1"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

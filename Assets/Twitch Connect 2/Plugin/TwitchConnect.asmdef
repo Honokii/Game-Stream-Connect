@@ -1,0 +1,31 @@
+{
+    "name": "TwitchConnect",
+    "rootNamespace": "",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "Microsoft.Extensions.Logging.Abstractions.dll",
+        "TwitchLib.Api.Core.dll",
+        "TwitchLib.Api.Core.Enums.dll",
+        "TwitchLib.Api.Core.Interfaces.dll",
+        "TwitchLib.Api.Core.Models.dll",
+        "TwitchLib.Api.Helix.dll",
+        "TwitchLib.Api.V5.dll",
+        "TwitchLib.Api.Helix.Models.dll",
+        "TwitchLib.Api.dll",
+        "TwitchLib.Api.V5.Models.dll",
+        "TwitchLib.Client.dll",
+        "TwitchLib.Communication.dll",
+        "TwitchLib.Client.Enums.dll",
+        "TwitchLib.PubSub.dll",
+        "TwitchLib.Client.Models.dll",
+        "TwitchLib.Unity.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

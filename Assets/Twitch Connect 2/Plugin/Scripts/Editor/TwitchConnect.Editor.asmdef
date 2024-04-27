@@ -1,0 +1,18 @@
+{
+    "name": "TwitchConnect.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:d594eabd2c8465a42b766c9e88cdd4e7"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

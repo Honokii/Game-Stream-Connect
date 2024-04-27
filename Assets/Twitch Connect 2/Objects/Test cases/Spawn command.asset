@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f3e6576e06ae31741b0619d4ac72facb, type: 3}
+  m_Name: Spawn command
+  m_EditorClassIdentifier: 
+  chatMessages: []
+  chatCommands:
+  - '@badge-info=;badges=broadcaster/1,premium/1;client-nonce=5028a67ee7aecfe5e793870a5b3cdc6f;color=#0000FF;display-name=turkenberg;emotes=;flags=;id=01bf183d-2299-42f6-9ce3-ac5f9f0a6e9b;mod=0;room-id=73452930;subscriber=0;tmi-sent-ts=1620482619210;turbo=0;user-id=73452930;user-type=
+    :turkenberg!turkenberg@turkenberg.tmi.twitch.tv PRIVMSG #turkenberg :!spawn'
+  chatCommandsWithArgument: []
+  bitsDonations: []
+  newSuscribers: []
+  otherMessage:
+  - '@badge-info=;badges=broadcaster/1,premium/1;client-nonce=5028a67ee7aecfe5e793870a5b3cdc6f;color=#0000FF;display-name=turkenberg;emotes=;flags=;id=01bf183d-2299-42f6-9ce3-ac5f9f0a6e9b;mod=0;room-id=73452930;subscriber=0;tmi-sent-ts=1620482619210;turbo=0;user-id=73452930;user-type=
+    :turkenberg!turkenberg@turkenberg.tmi.twitch.tv PRIVMSG #turkenberg :!vote 1'
+  channelRewards: []
+  inspectorFoldout: 1
+  recordTarget: 0
+  recordReady: 0
+  recordIndex: 0
