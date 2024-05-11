@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0aa8e2f3-4f48-4a3c-a3bc-bcc08e5f1bec" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Game-Stream-Connect/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Game-Stream-Connect/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TutorialInfo/Scripts/Readme.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TutorialInfo/Scripts/Readme.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TutorialInfo/Scripts/Readme.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TutorialInfo/Scripts/Readme.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,27 +89,13 @@
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/Assets/Twitch Connect 2/Demos/6. Use Chat Command Arguments/Scripts/CameraManager.cs</url>
           <line>28</line>
-          <properties documentPath="D:\Honoki\Documents\Unity\Game-Stream-Connect\Assets\Twitch Connect 2\Demos\6. Use Chat Command Arguments\Scripts\CameraManager.cs" initialLine="28" containingFunctionPresentation="method 'SwitchCameraFromChat'">
-            <startOffsets>
-              <option value="955" />
-            </startOffsets>
-            <endOffsets>
-              <option value="979" />
-            </endOffsets>
-          </properties>
+          <properties documentPath="D:\Honoki\Documents\Unity\Game-Stream-Connect\Assets\Twitch Connect 2\Demos\6. Use Chat Command Arguments\Scripts\CameraManager.cs" initialLine="28" containingFunctionPresentation="method 'SwitchCameraFromChat'" />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/Assets/_GameStreamConnect/Scripts/TwitchCommunity.cs</url>
           <line>6</line>
-          <properties documentPath="D:\Honoki\Documents\Unity\Game-Stream-Connect\Assets\_GameStreamConnect\Scripts\TwitchCommunity.cs" initialLine="6" containingFunctionPresentation="method 'HandleOnTwitchRewardRedeemed'">
-            <startOffsets>
-              <option value="231" />
-            </startOffsets>
-            <endOffsets>
-              <option value="276" />
-            </endOffsets>
-          </properties>
+          <properties documentPath="D:\Honoki\Documents\Unity\Game-Stream-Connect\Assets\_GameStreamConnect\Scripts\TwitchCommunity.cs" initialLine="6" containingFunctionPresentation="method 'HandleOnTwitchRewardRedeemed'" />
           <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
